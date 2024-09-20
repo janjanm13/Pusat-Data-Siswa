@@ -2,7 +2,7 @@ const hiddenData = {
     "schedule": {
       "senin": ["Penjas", "Fisika", "Bahasa Sunda", "PAIBP"],
       "selasa": ["Informatika", "Bahasa Indonesia", "Projek"],
-      "rabo": ["Matematika", "Bahasa Inggris", "Seni Musik", "Informatika"],
+      "rabu": ["Matematika", "Bahasa Inggris", "Seni Musik", "Informatika"],
       "kamis": ["Biologi", "BK", "Kimia", "PKN", "PKWU", "Fisika"],
       "jumat": ["Biologi", "Sejarah", "Kimia"]
     }
